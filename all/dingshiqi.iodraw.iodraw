@@ -108,8 +108,8 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-41" target="-meXwWZjGkVk7ENeb3nX-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-41" value="关闭数码管显示实现闪烁视觉效果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="540" width="125" height="60" as="geometry" />
+        <mxCell id="-meXwWZjGkVk7ENeb3nX-41" value="关闭数码管显示，实现闪烁视觉效果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="550" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-43" target="-meXwWZjGkVk7ENeb3nX-48">
           <mxGeometry relative="1" as="geometry" />
