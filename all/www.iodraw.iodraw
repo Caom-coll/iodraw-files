@@ -25,7 +25,7 @@
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-8" value="检测到低电平存在脉冲" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="286.25" y="230" width="147.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-10" value="发送”跳过ROM&quot;指令0xCC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
