@@ -167,7 +167,7 @@
           <mxGeometry x="440" y="858" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-59" value="拆分温度数值更新duanma数组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="970" width="82.5" height="40" as="geometry" />
+          <mxGeometry x="357.5" y="970" width="112.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
