@@ -137,7 +137,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-48" value="启动DS18B20采集温度并换算成实际数值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="750" width="135" height="40" as="geometry" />
+          <mxGeometry x="347.5" y="750" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-50" value="实际温度&amp;gt;设定温度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="820" width="125" height="60" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="440" y="858" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-59" value="拆分温度数值更新duanma数组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="970" width="115" height="40" as="geometry" />
+          <mxGeometry x="357.5" y="970" width="82.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
