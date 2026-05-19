@@ -136,7 +136,7 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-48" value="启动DS18B20采集温度并换算成实际数值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="750" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-50" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-meXwWZjGkVk7ENeb3nX-50" value="实际温度&amp;gt;设定温度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="820" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
