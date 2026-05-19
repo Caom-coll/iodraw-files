@@ -96,6 +96,9 @@
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-31" value="整合16位数据并乘以0.0625换算实际温度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="730" width="250" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-33" value="结束采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
