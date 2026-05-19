@@ -181,9 +181,6 @@
             <mxPoint x="560" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-62" value="检测硬件是否发生过流" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="366" y="1030" width="94.5" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
