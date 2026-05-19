@@ -184,17 +184,17 @@
             <mxPoint x="560" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-63" target="-meXwWZjGkVk7ENeb3nX-66">
+        <mxCell id="-meXwWZjGkVk7ENeb3nX-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-63" target="-meXwWZjGkVk7ENeb3nX-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-63" value="检测硬件是否发生过流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-65" value="强制关闭PWM输出触发过流保护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1060" width="120" height="40" as="geometry" />
+          <mxGeometry x="355" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-66" value="清楚中断标志中断返回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="1129" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="1110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-69" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="1030" width="50" height="30" as="geometry" />
