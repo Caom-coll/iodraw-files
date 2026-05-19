@@ -39,6 +39,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uixz_qwgjsEaK6s3z7Kr-10" target="Uixz_qwgjsEaK6s3z7Kr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-10" value="发送”跳过ROM&quot;指令0xCC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="320" width="150" height="30" as="geometry" />
         </mxCell>
@@ -49,7 +52,7 @@
           <mxGeometry x="350" y="280" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-15" value="发送”启动温度转换“指令0x44" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="370" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
