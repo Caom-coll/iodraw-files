@@ -54,8 +54,8 @@
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-15" value="发送”启动温度转换“指令0x44" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-17" value="退出当前流程，由TIM2异步等待转换完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="420" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
