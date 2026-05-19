@@ -88,7 +88,7 @@
           <mxGeometry x="280" y="620" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-28" value="依序读取温度高八位wenduh" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="715" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="670" width="160" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
