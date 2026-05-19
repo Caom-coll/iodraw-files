@@ -111,6 +111,9 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-41" value="关闭数码管显示实现闪烁视觉效果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-meXwWZjGkVk7ENeb3nX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-43" target="-meXwWZjGkVk7ENeb3nX-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-43" value="正常模式且jsq==25" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="640" width="95" height="80" as="geometry" />
         </mxCell>
@@ -131,7 +134,7 @@
           <mxGeometry x="330" y="508" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-48" value="启动DS18B20采集温度并换算成实际数值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="750" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
