@@ -169,7 +169,7 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-59" value="拆分温度数值，更新duanma数组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="970" width="112.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.47;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.247;entryY=-0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-52" target="-meXwWZjGkVk7ENeb3nX-59">
+        <mxCell id="-meXwWZjGkVk7ENeb3nX-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.47;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.223;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-52" target="-meXwWZjGkVk7ENeb3nX-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="1020" as="sourcePoint" />
             <mxPoint x="300" y="970" as="targetPoint" />
@@ -179,6 +179,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="1000" as="sourcePoint" />
             <mxPoint x="560" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="960" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
