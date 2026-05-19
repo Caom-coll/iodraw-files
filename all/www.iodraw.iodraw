@@ -73,7 +73,7 @@
           <mxGeometry x="285" y="520" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-24" value="发送“读取暂存器“指令0xBE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="286.25" y="570" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
