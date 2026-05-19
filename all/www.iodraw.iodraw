@@ -16,11 +16,17 @@
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-2" value="单片机拉低PB3引脚&amp;gt;480us发送复位脉冲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uixz_qwgjsEaK6s3z7Kr-4" target="Uixz_qwgjsEaK6s3z7Kr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-4" value="释放总线，等待DS18B20响应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-8" value="检测到低电平存在脉冲" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="286.25" y="230" width="147.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
