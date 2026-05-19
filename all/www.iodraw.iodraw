@@ -90,6 +90,9 @@
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-28" value="依序读取温度高八位wenduh" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="670" width="160" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
