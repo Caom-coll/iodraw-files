@@ -13,8 +13,8 @@
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-2" value="单片机拉低PB3引脚&amp;gt;480us发送复位脉冲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="Uixz_qwgjsEaK6s3z7Kr-4" value="释放总线，等待DS18B20响应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
