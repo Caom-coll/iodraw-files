@@ -10,23 +10,14 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-1" value="根据变量i写段码，位码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="30" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=-0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="416.36000000000007" y="158.06" as="targetPoint" />
-            <mxPoint x="413.59671140939594" y="129.9958053691275" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="414" y="140" />
-              <mxPoint x="420" y="140" />
-              <mxPoint x="420" y="170" />
-              <mxPoint x="416" y="170" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="-meXwWZjGkVk7ENeb3nX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-2" target="-meXwWZjGkVk7ENeb3nX-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-2" value="变量i = 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="80" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-4" value="写小数点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="170" width="75" height="20" as="geometry" />
+          <mxGeometry x="377.5" y="160" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
