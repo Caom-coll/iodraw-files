@@ -53,8 +53,8 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-24" value="i = 0,jsq = jsq+1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="290" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="270" width="80" height="80" as="geometry" />
+        <mxCell id="-meXwWZjGkVk7ENeb3nX-26" value="jsq&amp;gt;50" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="340" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
