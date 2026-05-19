@@ -19,8 +19,8 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-4" value="写小数点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="150" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="118" width="50" height="30" as="geometry" />
+        <mxCell id="-meXwWZjGkVk7ENeb3nX-14" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="122" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
