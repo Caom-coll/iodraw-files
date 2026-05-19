@@ -184,26 +184,17 @@
             <mxPoint x="560" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-meXwWZjGkVk7ENeb3nX-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-63" target="-meXwWZjGkVk7ENeb3nX-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-63" value="检测硬件是否发生过流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-65" value="强制关闭PWM输出触发过流保护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="1060" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-66" value="清楚中断标志中断返回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="1129" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.154;exitY=1.061;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.555;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-63" target="-meXwWZjGkVk7ENeb3nX-66">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="1030" as="sourcePoint" />
-            <mxPoint x="310" y="980" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.786;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.411;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-63" target="-meXwWZjGkVk7ENeb3nX-65">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="1050" as="sourcePoint" />
-            <mxPoint x="560" y="1000" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-69" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="1030" width="50" height="30" as="geometry" />
