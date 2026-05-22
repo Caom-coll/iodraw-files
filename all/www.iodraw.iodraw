@@ -35,10 +35,8 @@
             <mxPoint x="433.755" y="259.52" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="430" y="253" />
-              <mxPoint x="440" y="253" />
-              <mxPoint x="440" y="260" />
-              <mxPoint x="515" y="260" />
-              <mxPoint x="515" y="110" />
+              <mxPoint x="480" y="253" />
+              <mxPoint x="480" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -49,7 +47,7 @@
           <mxGeometry x="285" y="320" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-13" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="160" width="40" height="30" as="geometry" />
+          <mxGeometry x="470" y="150" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-14" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="385" y="280" width="50" height="30" as="geometry" />
