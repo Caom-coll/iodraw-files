@@ -240,10 +240,10 @@
         <mxCell id="0jnndN8HRphqhvd9E75P-14" value="正常模式且jsq==25" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0jnndN8HRphqhvd9E75P-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="0jnndN8HRphqhvd9E75P-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.158;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="520" as="sourcePoint" />
-            <mxPoint x="250" y="470" as="targetPoint" />
+            <mxPoint x="310" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
