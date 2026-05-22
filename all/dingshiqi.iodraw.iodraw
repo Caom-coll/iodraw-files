@@ -32,9 +32,6 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-4" value="显示小数点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="377.5" y="150" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-14" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="405" y="122" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-meXwWZjGkVk7ENeb3nX-15" target="-meXwWZjGkVk7ENeb3nX-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
