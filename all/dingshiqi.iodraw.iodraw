@@ -235,8 +235,8 @@
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-11" value="读取温度数据并换算实际室温值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326.25" y="740" width="182.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FJ52oFJ0Nrgt31HrWduF-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-13" value="解算温差，动态计算并更新 PWM 占空比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
