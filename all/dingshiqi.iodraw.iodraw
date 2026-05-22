@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8L7EM3FHI2ETq3U1d-iG">
-    <mxGraphModel dx="568" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="678" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,10 +140,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-65" value="强制关闭PWM输出触发过流保护" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1034" width="120" height="40" as="geometry" />
+          <mxGeometry x="357.51" y="1034" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-66" value="清楚中断标志中断返回" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="1120" width="120" height="40" as="geometry" />
+          <mxGeometry x="355" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-69" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="1004" width="50" height="30" as="geometry" />
@@ -200,7 +200,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FJ52oFJ0Nrgt31HrWduF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-26" target="-meXwWZjGkVk7ENeb3nX-66">
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-26" target="-meXwWZjGkVk7ENeb3nX-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-26" value="检测硬件是否发生过流" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
