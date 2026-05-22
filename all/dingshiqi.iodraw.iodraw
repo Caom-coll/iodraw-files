@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8L7EM3FHI2ETq3U1d-iG">
-    <mxGraphModel dx="814" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="394" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,15 +110,13 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-43" value="正常模式且jsq==25" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="367.5" y="640" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-45" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="455" y="508" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.026;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-meXwWZjGkVk7ENeb3nX-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="391.3636363636364" y="492.27272727272737" as="sourcePoint" />
+            <mxPoint x="310" y="480" as="sourcePoint" />
             <mxPoint x="310" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="540" />
+              <mxPoint x="270" y="530" />
+              <mxPoint x="310" y="560" />
               <mxPoint x="320" y="580" />
             </Array>
           </mxGeometry>
@@ -234,6 +232,11 @@
         </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-8" value="jsq&amp;gt;50" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0jnndN8HRphqhvd9E75P-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="508" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-9" value="设置模式且jsq &amp;gt; 25" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="420" width="120" height="50" as="geometry" />
