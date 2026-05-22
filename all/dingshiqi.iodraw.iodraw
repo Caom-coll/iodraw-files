@@ -232,11 +232,14 @@
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-8" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="605" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJ52oFJ0Nrgt31HrWduF-11" target="FJ52oFJ0Nrgt31HrWduF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-11" value="读取温度数据并换算实际室温值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326.25" y="740" width="182.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-13" value="解算温差，动态计算并更新 PWM 占空比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="306.25" y="790" width="222.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
