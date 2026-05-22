@@ -124,16 +124,16 @@
           <mxGeometry x="350" y="710" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-52" value="关闭驱动输出停止加热" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322.5" y="870" width="82.5" height="40" as="geometry" />
+          <mxGeometry x="322.5" y="860" width="82.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-53" value="开启驱动输出开始加热" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="870" width="80" height="40" as="geometry" />
+          <mxGeometry x="430" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-57" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="830" width="50" height="30" as="geometry" />
+          <mxGeometry x="330" y="820" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-58" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="830" width="40" height="30" as="geometry" />
+          <mxGeometry x="460" y="820" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-meXwWZjGkVk7ENeb3nX-59" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-59" value="拆分温度数值，更新duanma数组" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="358.75" y="940" width="112.5" height="40" as="geometry" />
+          <mxGeometry x="361.25" y="920" width="112.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.47;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.223;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-meXwWZjGkVk7ENeb3nX-52" target="-meXwWZjGkVk7ENeb3nX-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
