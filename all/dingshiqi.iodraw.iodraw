@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-48" value="启动DS18B20采集温度并换算成实际数值" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="740" width="135" height="40" as="geometry" />
+          <mxGeometry x="350" y="730" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-50" value="实际温度&amp;gt;设定温度" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="798" width="125" height="60" as="geometry" />
@@ -199,15 +199,6 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-70" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="488" y="1034" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.868;exitY=0.655;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.984;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-meXwWZjGkVk7ENeb3nX-63" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="449.9599999999998" y="692.3999999999999" as="sourcePoint" />
-            <mxPoint x="580" y="710" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-75" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="455" y="690" width="40" height="30" as="geometry" />
         </mxCell>
@@ -231,6 +222,9 @@
         </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-9" value="设置模式且jsq &amp;gt; 25" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0jnndN8HRphqhvd9E75P-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-14" target="-meXwWZjGkVk7ENeb3nX-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-14" value="正常模式且jsq==25" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="610" width="120" height="80" as="geometry" />
