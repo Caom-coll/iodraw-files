@@ -142,7 +142,7 @@
           <mxGeometry x="410" y="1004" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-70" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1004" width="40" height="30" as="geometry" />
+          <mxGeometry x="300" y="1004" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-75" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="488" y="605" width="40" height="30" as="geometry" />
@@ -240,6 +240,14 @@
         </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-24" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="720" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-26" target="-meXwWZjGkVk7ENeb3nX-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="333" y="985" />
+              <mxPoint x="333" y="1124" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
