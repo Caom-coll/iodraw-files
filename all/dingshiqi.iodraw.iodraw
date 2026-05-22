@@ -118,7 +118,7 @@
           <mxGeometry x="290" y="523" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-48" value="下发温度转换指令" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="630" width="135" height="30" as="geometry" />
+          <mxGeometry x="346" y="630" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-52" value="关闭驱动输出停止加热" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322.5" y="860" width="82.5" height="40" as="geometry" />
@@ -204,7 +204,7 @@
         <mxCell id="0jnndN8HRphqhvd9E75P-9" value="设置模式且jsq &amp;gt; 25" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FJ52oFJ0Nrgt31HrWduF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-14" target="FJ52oFJ0Nrgt31HrWduF-3">
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-14" target="-meXwWZjGkVk7ENeb3nX-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-14" value="正常模式且jsq==0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -250,7 +250,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-3" value="正常模式且jsq==0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="361.25" y="690" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="690" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
