@@ -12,15 +12,6 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-1" value="根据变量i写段码，位码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="30" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="-meXwWZjGkVk7ENeb3nX-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414.9999999999999" y="129.9999999999999" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="420" y="140" />
-              <mxPoint x="420" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=6;endSize=4;targetPerimeterSpacing=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="180" as="targetPoint" />
