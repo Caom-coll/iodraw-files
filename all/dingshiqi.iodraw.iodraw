@@ -100,16 +100,16 @@
         </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="417.41000000000014" y="568" as="sourcePoint" />
-            <mxPoint x="417.41000000000014" y="610" as="targetPoint" />
+            <mxPoint x="414.8100000000001" y="523" as="sourcePoint" />
+            <mxPoint x="414.8100000000001" y="565" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="417.41" y="590" />
-              <mxPoint x="417.41" y="590" />
+              <mxPoint x="414.81" y="545" />
+              <mxPoint x="414.81" y="545" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-41" value="关闭数码管显示，实现闪烁视觉效果" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="480" width="125" height="42" as="geometry" />
+          <mxGeometry x="352.5" y="480" width="125" height="42" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-45" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="410" y="450" width="50" height="30" as="geometry" />
