@@ -85,15 +85,6 @@
             <mxPoint x="415" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.912;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517.73" y="375" as="sourcePoint" />
-            <mxPoint x="464.44000000000005" y="457.71000000000004" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="502.73" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-35" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="435" y="320" width="50" height="30" as="geometry" />
         </mxCell>
@@ -244,7 +235,7 @@
           <mxGeometry x="374" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-9" value="设置模式且jsq &amp;gt; 25" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="410" width="120" height="40" as="geometry" />
+          <mxGeometry x="355" y="420" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
