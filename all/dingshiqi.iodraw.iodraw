@@ -123,7 +123,7 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-48" value="下发温度转换指令" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="630" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0jnndN8HRphqhvd9E75P-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-meXwWZjGkVk7ENeb3nX-59" target="0jnndN8HRphqhvd9E75P-26" edge="1">
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-59" target="FJ52oFJ0Nrgt31HrWduF-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-59" value="拆分温度数值，更新duanma数组" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -236,7 +236,7 @@
           <mxGeometry x="410" y="720" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-17" value="检测硬件是否发生过流" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="186.25" y="880" width="133.75" height="40" as="geometry" />
+          <mxGeometry x="350.63" y="890" width="133.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
