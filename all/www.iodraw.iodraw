@@ -62,46 +62,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-17" value="退出当前流程，由TIM2异步等待转换完成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="420" width="230" height="30" as="geometry" />
+          <mxGeometry x="245" y="410" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uixz_qwgjsEaK6s3z7Kr-19" target="Uixz_qwgjsEaK6s3z7Kr-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-19" value="转换完成，再次发送复位脉冲并检测响应" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="470" width="220" height="30" as="geometry" />
+          <mxGeometry x="250" y="460" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uixz_qwgjsEaK6s3z7Kr-22" target="Uixz_qwgjsEaK6s3z7Kr-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-22" value="发送“跳过ROM”指令0xCC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="520" width="150" height="35" as="geometry" />
+          <mxGeometry x="285" y="510" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uixz_qwgjsEaK6s3z7Kr-24" target="Uixz_qwgjsEaK6s3z7Kr-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-24" value="发送“读取暂存器“指令0xBE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="570" width="150" height="30" as="geometry" />
+          <mxGeometry x="285" y="560" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uixz_qwgjsEaK6s3z7Kr-26" target="Uixz_qwgjsEaK6s3z7Kr-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-26" value="依序读取温度低八位wendul" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="620" width="160" height="30" as="geometry" />
+          <mxGeometry x="280" y="610" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uixz_qwgjsEaK6s3z7Kr-28" target="Uixz_qwgjsEaK6s3z7Kr-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-28" value="依序读取温度高八位wenduh" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="670" width="160" height="35" as="geometry" />
+          <mxGeometry x="280" y="660" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uixz_qwgjsEaK6s3z7Kr-31" target="Uixz_qwgjsEaK6s3z7Kr-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-31" value="整合16位数据并乘以0.0625换算实际温度" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="235" y="730" width="250" height="40" as="geometry" />
+          <mxGeometry x="235" y="720" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-33" value="结束采集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="317" y="790" width="86" height="30" as="geometry" />
+          <mxGeometry x="317" y="780" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GP_6zrPNvK4TMsq9hIJE-1" value="检测到低电平存在脉冲" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="230" width="130" height="50" as="geometry" />
