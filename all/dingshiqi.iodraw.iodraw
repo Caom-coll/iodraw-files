@@ -223,6 +223,9 @@
         <mxCell id="0jnndN8HRphqhvd9E75P-26" value="检测硬件是否发生过流" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="990" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJ52oFJ0Nrgt31HrWduF-3" target="FJ52oFJ0Nrgt31HrWduF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-3" value="正常模式且jsq==40" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="680" width="120" height="40" as="geometry" />
         </mxCell>
@@ -230,7 +233,10 @@
           <mxGeometry x="410" y="605" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-11" value="读取温度数据并换算实际室温值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333.75" y="730" width="182.5" height="30" as="geometry" />
+          <mxGeometry x="326.25" y="740" width="182.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
