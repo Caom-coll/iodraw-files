@@ -205,8 +205,8 @@
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJ52oFJ0Nrgt31HrWduF-3" target="0jnndN8HRphqhvd9E75P-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="700" />
-              <mxPoint x="300" y="985" />
+              <mxPoint x="290" y="700" />
+              <mxPoint x="290" y="985" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -236,6 +236,9 @@
         </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-17" value="检测硬件是否发生过流" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="350.63" y="890" width="133.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-24" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="720" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
