@@ -135,10 +135,8 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-58" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="820" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-meXwWZjGkVk7ENeb3nX-59" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="1000" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="0jnndN8HRphqhvd9E75P-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-meXwWZjGkVk7ENeb3nX-59" target="0jnndN8HRphqhvd9E75P-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-59" value="拆分温度数值，更新duanma数组" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="361.25" y="920" width="112.5" height="40" as="geometry" />
