@@ -229,6 +229,9 @@
         <mxCell id="-meXwWZjGkVk7ENeb3nX-76" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="708" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0jnndN8HRphqhvd9E75P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-1" target="-meXwWZjGkVk7ENeb3nX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-1" value="变量i = 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="90" width="80" height="30" as="geometry" />
         </mxCell>
