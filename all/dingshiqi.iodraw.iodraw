@@ -127,19 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-59" value="拆分温度数值，更新duanma数组" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="361.25" y="920" width="178.75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.47;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.223;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-meXwWZjGkVk7ENeb3nX-59" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="361.2750000000001" y="900.9199999999998" as="sourcePoint" />
-            <mxPoint x="300" y="970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-meXwWZjGkVk7ENeb3nX-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.526;exitY=1.063;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.733;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-meXwWZjGkVk7ENeb3nX-59" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="472.08000000000015" y="902.52" as="sourcePoint" />
-            <mxPoint x="560" y="950" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="328.13" y="840" width="178.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="-meXwWZjGkVk7ENeb3nX-65" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -237,6 +225,9 @@
         </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-11" value="读取温度数据并换算实际室温值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326.25" y="740" width="182.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJ52oFJ0Nrgt31HrWduF-13" target="-meXwWZjGkVk7ENeb3nX-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-13" value="解算温差，动态计算并更新 PWM 占空比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="306.25" y="790" width="222.5" height="30" as="geometry" />
