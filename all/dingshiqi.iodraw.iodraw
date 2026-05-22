@@ -249,8 +249,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FJ52oFJ0Nrgt31HrWduF-3" value="正常模式且jsq==0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="353.75" y="680" width="120" height="40" as="geometry" />
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-3" value="正常模式且jsq==40" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
