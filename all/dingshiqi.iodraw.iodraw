@@ -200,8 +200,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0jnndN8HRphqhvd9E75P-26" target="-meXwWZjGkVk7ENeb3nX-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0jnndN8HRphqhvd9E75P-26" value="检测硬件是否发生过流" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="354.38" y="960" width="130" height="50" as="geometry" />
+          <mxGeometry x="352.51" y="960" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJ52oFJ0Nrgt31HrWduF-3" target="FJ52oFJ0Nrgt31HrWduF-11">
           <mxGeometry relative="1" as="geometry" />
