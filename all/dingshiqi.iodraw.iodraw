@@ -88,7 +88,12 @@
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="-meXwWZjGkVk7ENeb3nX-41" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="510" as="sourcePoint" />
+            <mxPoint x="420" y="490" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="416" y="510" />
+              <mxPoint x="416" y="531" />
+              <mxPoint x="415" y="531" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-35" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -107,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-41" value="关闭数码管显示，实现闪烁视觉效果" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="550" width="125" height="60" as="geometry" />
+          <mxGeometry x="352.5" y="538" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-meXwWZjGkVk7ENeb3nX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-meXwWZjGkVk7ENeb3nX-43" target="-meXwWZjGkVk7ENeb3nX-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
