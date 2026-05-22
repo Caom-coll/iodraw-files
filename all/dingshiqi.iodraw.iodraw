@@ -229,6 +229,9 @@
         <mxCell id="FJ52oFJ0Nrgt31HrWduF-8" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="605" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FJ52oFJ0Nrgt31HrWduF-11" value="读取温度数据并换算实际室温值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
