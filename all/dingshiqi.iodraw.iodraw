@@ -232,6 +232,9 @@
         <mxCell id="0jnndN8HRphqhvd9E75P-1" value="变量i = 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="90" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0jnndN8HRphqhvd9E75P-7" value="i = 4" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
