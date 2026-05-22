@@ -102,8 +102,8 @@
         <mxCell id="Uixz_qwgjsEaK6s3z7Kr-33" value="结束采集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="317" y="790" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GP_6zrPNvK4TMsq9hIJE-1" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="220" width="120" height="80" as="geometry" />
+        <mxCell id="GP_6zrPNvK4TMsq9hIJE-1" value="检测到低电平存在脉冲" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
