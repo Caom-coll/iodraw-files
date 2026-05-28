@@ -98,6 +98,9 @@
         <mxCell id="sA09dju8NDHQ1TEkbjj2-29" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="414" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sA09dju8NDHQ1TEkbjj2-30" target="sA09dju8NDHQ1TEkbjj2-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sA09dju8NDHQ1TEkbjj2-30" value="硬件是否发生过流" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="540" width="120" height="30" as="geometry" />
         </mxCell>
@@ -108,7 +111,10 @@
           <mxGeometry x="314" y="478" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sA09dju8NDHQ1TEkbjj2-35" value="强制关闭输出并触发声光报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="600" width="166" height="30" as="geometry" />
+          <mxGeometry x="331" y="590" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="568" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
