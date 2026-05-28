@@ -56,11 +56,17 @@
         <mxCell id="sA09dju8NDHQ1TEkbjj2-19" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="228" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sA09dju8NDHQ1TEkbjj2-20" target="sA09dju8NDHQ1TEkbjj2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sA09dju8NDHQ1TEkbjj2-20" value="距离上次测温≥ 1000ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sA09dju8NDHQ1TEkbjj2-22" value="采集 DS18B20 实时室温" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="440" width="136" height="60" as="geometry" />
+          <mxGeometry x="346" y="440" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-24" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="408" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
