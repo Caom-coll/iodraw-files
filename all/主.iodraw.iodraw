@@ -137,6 +137,9 @@
         <mxCell id="sA09dju8NDHQ1TEkbjj2-37" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405" y="568" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sA09dju8NDHQ1TEkbjj2-38" target="sA09dju8NDHQ1TEkbjj2-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sA09dju8NDHQ1TEkbjj2-38" value="运行模式且室温 &amp;lt; 设定温度" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="650" width="156" height="40" as="geometry" />
         </mxCell>
@@ -144,7 +147,10 @@
           <mxGeometry x="480" y="568" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sA09dju8NDHQ1TEkbjj2-42" value="开启高频PWM加热与循环水泵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="720" width="166" height="30" as="geometry" />
+          <mxGeometry x="331" y="710" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-44" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="688" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
