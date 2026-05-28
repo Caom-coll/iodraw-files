@@ -34,7 +34,7 @@
         <mxCell id="sA09dju8NDHQ1TEkbjj2-15" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405" y="228" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sA09dju8NDHQ1TEkbjj2-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-16" value="按键状态扫描与消抖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
