@@ -37,6 +37,9 @@
         <mxCell id="sA09dju8NDHQ1TEkbjj2-15" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405" y="228" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sA09dju8NDHQ1TEkbjj2-16" target="sA09dju8NDHQ1TEkbjj2-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sA09dju8NDHQ1TEkbjj2-16" value="按键状态扫描与消抖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="320" width="120" height="40" as="geometry" />
         </mxCell>
@@ -54,7 +57,10 @@
           <mxGeometry x="460" y="228" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sA09dju8NDHQ1TEkbjj2-20" value="距离上次测温≥ 1000ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
