@@ -19,8 +19,8 @@
         <mxCell id="sA09dju8NDHQ1TEkbjj2-9" value="进入主循环 while 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sA09dju8NDHQ1TEkbjj2-11" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="90" width="120" height="80" as="geometry" />
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-11" value="距离上次刷新≥ 1ms?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
