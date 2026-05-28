@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="bUDgozlnYZfX9UcENZak">
-    <mxGraphModel dx="488" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="339" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,9 @@
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-8" value="当前处于状态 0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E5ZZdNy9xTuhTXFy0HHx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E5ZZdNy9xTuhTXFy0HHx-9" target="E5ZZdNy9xTuhTXFy0HHx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-9" value="距离上次采集≥ 1000ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="150" width="120" height="40" as="geometry" />
         </mxCell>
@@ -41,6 +44,9 @@
         </mxCell>
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-14" value="向 DS18B20 发送启动转换指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="220" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E5ZZdNy9xTuhTXFy0HHx-16" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="188" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
