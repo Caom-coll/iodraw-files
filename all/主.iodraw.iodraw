@@ -74,15 +74,15 @@
         <mxCell id="sA09dju8NDHQ1TEkbjj2-26" value="距离上次控制≥ 20ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sA09dju8NDHQ1TEkbjj2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="482.72" y="398.38" as="sourcePoint" />
-            <mxPoint x="482" y="511.62" as="targetPoint" />
+            <mxPoint x="522.72" y="390" as="sourcePoint" />
+            <mxPoint x="500" y="501.62" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="503" y="398" />
-              <mxPoint x="503" y="510" />
-              <mxPoint x="480" y="510" />
-              <mxPoint x="480" y="512" />
+              <mxPoint x="543" y="389.62" />
+              <mxPoint x="543" y="501.62" />
+              <mxPoint x="520" y="501.62" />
+              <mxPoint x="520" y="503.62" />
             </Array>
           </mxGeometry>
         </mxCell>
