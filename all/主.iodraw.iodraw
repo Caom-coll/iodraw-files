@@ -59,8 +59,8 @@
         <mxCell id="sA09dju8NDHQ1TEkbjj2-20" value="距离上次测温≥ 1000ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sA09dju8NDHQ1TEkbjj2-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-22" value="采集 DS18B20 实时室温" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="440" width="136" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
