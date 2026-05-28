@@ -28,11 +28,17 @@
         <mxCell id="Ltic6qH6q0AZrSWjBMam-7" value="App_Init: 设默认目标温度25℃、默认关闭加热" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="326" y="170" width="176" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ltic6qH6q0AZrSWjBMam-9" target="sA09dju8NDHQ1TEkbjj2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ltic6qH6q0AZrSWjBMam-9" value="进入主循环while 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sA09dju8NDHQ1TEkbjj2-2" value="距离上次刷新是否 ≥ 1ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="130" height="50" as="geometry" />
+          <mxGeometry x="349" y="300" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sA09dju8NDHQ1TEkbjj2-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
