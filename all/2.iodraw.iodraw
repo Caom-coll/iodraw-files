@@ -39,6 +39,9 @@
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-9" value="距离上次采集≥ 1000ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="150" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E5ZZdNy9xTuhTXFy0HHx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E5ZZdNy9xTuhTXFy0HHx-12" target="E5ZZdNy9xTuhTXFy0HHx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-12" value="等待转换时间≥ 800ms?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="150" width="120" height="40" as="geometry" />
         </mxCell>
@@ -55,7 +58,10 @@
           <mxGeometry x="265" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-19" value="读取传感器温度数据与校验码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="218" width="100" height="60" as="geometry" />
+          <mxGeometry x="430" y="217" width="100" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="E5ZZdNy9xTuhTXFy0HHx-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="188" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
