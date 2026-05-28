@@ -12,9 +12,14 @@
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-1" value="进入温度采集任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E5ZZdNy9xTuhTXFy0HHx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E5ZZdNy9xTuhTXFy0HHx-8">
+        <mxCell id="E5ZZdNy9xTuhTXFy0HHx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E5ZZdNy9xTuhTXFy0HHx-8" target="E5ZZdNy9xTuhTXFy0HHx-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="100" />
+              <mxPoint x="320" y="140" />
+              <mxPoint x="320" y="140" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-8" value="当前处于状态 0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
@@ -22,6 +27,9 @@
         </mxCell>
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-9" value="距离上次采集≥ 1000ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E5ZZdNy9xTuhTXFy0HHx-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
