@@ -69,6 +69,9 @@
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-22" value="CRC8 校验是否通过" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E5ZZdNy9xTuhTXFy0HHx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E5ZZdNy9xTuhTXFy0HHx-25" target="E5ZZdNy9xTuhTXFy0HHx-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E5ZZdNy9xTuhTXFy0HHx-25" value="更新实时室温数据置位有效标志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="340" width="95" height="40" as="geometry" />
         </mxCell>
