@@ -11,10 +11,10 @@
           <mxGeometry x="389" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ltic6qH6q0AZrSWjBMam-2" value="初始化系统时钟与SysTick滴答定时器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="50" width="146" height="50" as="geometry" />
+          <mxGeometry x="304.5" y="50" width="219" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ltic6qH6q0AZrSWjBMam-5" value="初始化各外设GPIO、TIM1与TIM3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="130" width="120" height="50" as="geometry" />
+          <mxGeometry x="321" y="130" width="186" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
